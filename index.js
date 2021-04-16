@@ -1,4 +1,4 @@
-let animal = "cat";
+ animal = "cat";
 
 function myAnimal() {
   return animal;
